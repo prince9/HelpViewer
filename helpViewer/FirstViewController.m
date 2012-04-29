@@ -5,6 +5,12 @@
 //  Created by 真有 津坂 on 12/04/29.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
+/*簡単な説明;
+1.アプリケーションを終了させるときに「1」という数値を保存する
+2.「1」という数値が保存されていないとき=初回起動時に吹き出し型のヘルプ画面を表示(ImageView)
+3.吹き出しはタップすれば消える
+4.次回起動時からはヘルプは表示されない
+*/
 
 #import "FirstViewController.h"
 //追加、Add
